@@ -1,0 +1,20 @@
+{
+  "name": "cluster-all",
+  "version": "0.0.1",
+  "description": "Use cluster as like Promise.all",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/cluster-all.git"
+  },
+  "keywords": ["cluster"],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/cluster-all/issues"
+  },
+  "homepage": "https://github.com/watilde/cluster-all#readme"
+}
